@@ -12,10 +12,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&theme=dark&show)](https://github.com/YwaoFugimoto/github-readme-stats)
 
-## Atualmente ando estudando
-<div style="display: inline_block"><br/>
-<img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br/>
+## Atualmente aprendendo
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
