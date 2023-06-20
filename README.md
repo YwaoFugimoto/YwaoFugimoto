@@ -18,10 +18,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,haskell,java,js,html,css" />
   </a>
 </p>
-
-
-
-  ![Snake animation](https://github.com/YwaoFugimoto/YwaoFugimoto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
