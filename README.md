@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/YwaoFugimoto/YwaoFugimoto/master/images/welcome.png)
+![Alt text](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 - Cursando Ciência da Computacao na Universidade Federal de Alfenas.
 - Interresado na área de inteligência artificial.
 ### Olá! eu sou o Ywao 
