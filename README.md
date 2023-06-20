@@ -8,7 +8,7 @@
 
 ![Ywao's GitHub stats](https://github-readme-stats.vercel.app/api?username=YwaoFugimoto&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&theme=tokyonight)](https://github.com/YwaoFugimoto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&theme=dark&show)](https://github.com/YwaoFugimoto/github-readme-stats)
 
 ## Atualmente ando estudando
 <div style="display: inline_block"><br/>
