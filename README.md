@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fugimoto.ywao@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroywao/)
-[![Spotfy[Now playing]](https://readme-now-playing.vercel.app/now-playing/q?uid=PedroYwao)
+[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4v65KVoX42BbmuzuUdSOjB)
 
 
 ![Ywao's GitHub stats](https://github-readme-stats.vercel.app/api?username=YwaoFugimoto&theme=dark&show_icons=true)
