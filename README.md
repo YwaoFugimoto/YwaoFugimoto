@@ -8,7 +8,8 @@
 [![Spotfy](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4v65KVoX42BbmuzuUdSOjB)
 
 <div align="center">
-  ![Ywao's GitHub stats](https://github-readme-stats.vercel.app/api?username=YwaoFugimoto&theme=dark&show_icons=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&            theme=tokyonight)](https://github.com/YwaoFugimoto/github-readme-stats)
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=YwaoFugimoto&theme=dark&show_icons=true">
+  <img height = "180em" src = "ttps://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&theme=tokyonight)](https://github.com/YwaoFugimoto/github-readme-stats">
 </div>
 
 ## Atualmente aprendendo
