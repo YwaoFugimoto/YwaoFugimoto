@@ -1,6 +1,5 @@
 ![Alt text](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
-### Meu nome é Ywao 
 - Cursando Ciência da Computacao na Universidade Federal de Alfenas.
 - Interresado na área de inteligência artificial.
 
