@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/YwaoFugimoto"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YwaoFugimoto&show_icons=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YwaoFugimoto&show_icons=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
     <!-- hide_border=true -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 </div>
