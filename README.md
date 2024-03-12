@@ -1,7 +1,7 @@
 ![Alt text](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
-- Cursando Ciência da Computacao na Universidade Federal de Alfenas.
-- Interresado na área de inteligência artificial.
+- Graduating in Computer Science at Unifal - Federal University of Alfenas
+- Interested in Artificial Intelligence and CyberSecurity.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fugimoto.ywao@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroywao/)
@@ -14,7 +14,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YwaoFugimoto&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 </div>
 
-## Atualmente aprendendo
+## My experience 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,perl,haskell,java,js,html,css" />
