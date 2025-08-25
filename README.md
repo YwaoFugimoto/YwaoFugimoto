@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pedro Ywao 👋</h1>
 
-<p style="text-align: center; font-size: 15px;">
+<p align="center" style="font-size: 15px;">
 I'm a Computer Scientist who's truly passionate about the endless complexities of computation. <br/>
 This is my corner of the internet for continuous learning, experimenting with new stacks, and sharing my side projects. <br/>
 Away from the keyboard, I'm usually looking for a new adventure 🗺️ or trying to find the best pizza in town 🍕.
