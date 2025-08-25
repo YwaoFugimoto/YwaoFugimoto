@@ -5,7 +5,7 @@ I'm a Computer Scientist who's truly passionate about the endless complexities o
 This is my corner of the internet for continuous learning, experimenting with new stacks, and sharing my side projects. <br/>
 Away from the keyboard, I'm usually looking for a new adventure 🗺️ or trying to find the best pizza in town 🍕.
 </h4>
-<div align="center"><img src="Lifeisgood.png"></img></div>
+<div align="center"><img src="lifegood.png"></img></div>
 <div align="center">
   
   <h3>📫 How to reach me:</h3>
