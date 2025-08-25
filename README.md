@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Pedro Ywao 👋</h1>
 
 <p align="center">
-  <em>A Computer Science student on a mission to turn caffeine into clean, efficient code. <br />
-  This is my personal space to experiment, learn, and showcase my side projects.</em>
+  A Computer Science student on a mission to turn caffeine into clean, efficient code.
+  This is my personal space to experiment, learn, and showcase my side projects.
 </p>
 
 <div align="center">
